@@ -108,23 +108,23 @@ export function Experiencia() {
             <section className="container my-4">
                 <div className="row">
                     <div className="col-4 card p-3">
-                    <img src="../../../../src/assets/img/base de datos.jpeg" alt="" className='img-fluid'/> 
+                    <img src="../../../../src/assets/img/Js.jpeg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
-                        <div class="progress-bar barra">72%</div> 
+                        <div class="progress-bar barra40">40%</div> 
                     </div>
                     
                     </div>
                     <div className="col-8 card p-3">
-                        <h2>Base de Datos</h2>
+                        <h2>Programación con Java Script</h2>
                         <ul>
-                            <li>Conceptos Básicos</li>
-                            <li>Modelos de Bases de Datos</li>
-                            <li>Esctructura de la Base de Datos</li>
-                            <li>Claves primarias y foráneas</li>
-                            <li>Modelo entidad-relación (ER)</li>
-                            <li>SQL (Structured Query Language)</li>
-                            <li>Normalización</li>
+                            <li>Sintaxis básica</li>
+                            <li>Condicionales</li>
+                            <li>Bucles o ciclos</li>
+                            <li>Funciones</li>
+                            <li>Eventos</li>
+                            <li>Manipulación del DOM</li>
+                            <li>Formularios y validaciones</li>
                         </ul>
                     </div>
                 </div>
@@ -133,23 +133,23 @@ export function Experiencia() {
             <section className="container my-4">
                 <div className="row">
                     <div className="col-4 card p-3">
-                    <img src="../../../../src/assets/img/base de datos.jpeg" alt="" className='img-fluid'/> 
+                    <img src="../../../../src/assets/img/Git.jpeg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
-                        <div class="progress-bar barra">72%</div> 
+                        <div class="progress-bar barra50">40%</div> 
                     </div>
                     
                     </div>
                     <div className="col-8 card p-3">
-                        <h2>Base de Datos</h2>
+                        <h2>Uso del Git</h2>
                         <ul>
-                            <li>Conceptos Básicos</li>
-                            <li>Modelos de Bases de Datos</li>
-                            <li>Esctructura de la Base de Datos</li>
-                            <li>Claves primarias y foráneas</li>
-                            <li>Modelo entidad-relación (ER)</li>
-                            <li>SQL (Structured Query Language)</li>
-                            <li>Normalización</li>
+                            <li>Qué es Git y para qué sirve?</li>
+                            <li>Inicializar un repositorio(git init)</li>
+                            <li>Guardar cambios (commits) git add</li>
+                            <li>GitHub</li>
+                            <li>Clonar repositorios(git clone)</li>
+                            <li>Subir y bajar cambios (push) git push</li>
+                            
                         </ul>
                     </div>
                 </div>
@@ -158,23 +158,18 @@ export function Experiencia() {
             <section className="container my-4">
                 <div className="row">
                     <div className="col-4 card p-3">
-                    <img src="../../../../src/assets/img/base de datos.jpeg" alt="" className='img-fluid'/> 
+                    <img src="../../../../src/assets/img/React.jpeg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
-                        <div class="progress-bar barra">72%</div> 
+                        <div class="progress-bar barra60">40%</div> 
                     </div>
                     
                     </div>
                     <div className="col-8 card p-3">
-                        <h2>Base de Datos</h2>
+                        <h2>React</h2>
                         <ul>
-                            <li>Conceptos Básicos</li>
-                            <li>Modelos de Bases de Datos</li>
-                            <li>Esctructura de la Base de Datos</li>
-                            <li>Claves primarias y foráneas</li>
-                            <li>Modelo entidad-relación (ER)</li>
-                            <li>SQL (Structured Query Language)</li>
-                            <li>Normalización</li>
+                            <li>Componentes</li>
+                            <li>JSX</li>
                         </ul>
                     </div>
                 </div>
