@@ -1,3 +1,16 @@
 .barra{
     width: 50%;
 }
+.barra10{
+    width: 65%;
+}
+.barra20{
+    width: 50%;
+}
+.barra30{
+    width: 55%;
+}
+.img-fluid{
+    width: 100%;
+    height: 100%;
+}

@@ -11,10 +11,10 @@ export function Rutas(){
 
         <>
           <Routes>
-            <Route path="/inicio" element={</Home>}></Route>
-            <Route path="/proyectos" element={</Historia>}></Route>
-            <Route path="/daniela" element={</Introduccion>}></Route>
-            <Route path="/experiencia" element={</Experiencia>}></Route>
+            <Route path="/inicio" element={<Home/>}></Route>
+            <Route path="/proyectos" element={<Historia/>}></Route>
+            <Route path="/daniela" element={<Introduccion/>}></Route>
+            <Route path="/experiencia" element={<Experiencia/>}></Route>
           </Routes>
           
         </>
