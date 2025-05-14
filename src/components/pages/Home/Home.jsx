@@ -4,7 +4,10 @@ export function Home() {
     return (
 
         <>
-            <section className="container">
+
+            <div className="fondocolor">
+
+                  <section className="container">
                 <div className="row justify-content-center">
                     <div className="col-4">
                         <h1>Daniela Castañeda Aristizábal</h1>
@@ -36,6 +39,9 @@ export function Home() {
                     </div>
                 </div>
             </section>
+
+            </div>
+          
         </>
     )
 }
