@@ -6,7 +6,7 @@ export function Historia(){
         <>
            <section className="container">
              <div className="row">
-                <div className="col-12">
+                <div className="col-12 my-5">
                     <h3>Bitacora de proyectos:</h3>
                     <hr />
                     <img src="../../../../src/assets/img/logotipo.jpg" alt="" 
@@ -38,7 +38,7 @@ export function Historia(){
                         </p>
                     </div>
                     <div className="col-12 col-md-8 align-self-center">
-                       <img src="../../../../src/assets/img/img2.jpg" alt=""  className='img-fluid'/>
+                       <img src="../../../../src/assets/img/img2.jpg" alt=""  className='img-fluid rounded shadow foto'/>
                     </div>
                 </div>
             </section>
