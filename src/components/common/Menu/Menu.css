@@ -1,0 +1,5 @@
+.menu {
+     background: #15151a;
+    background: linear-gradient(90deg,rgba(21, 21, 26, 1) 1%, rgba(58, 58, 189, 1) 37%, rgba(72, 193, 217, 1) 71%);
+    color: black;
+}
