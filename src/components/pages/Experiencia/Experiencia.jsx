@@ -18,7 +18,7 @@ export function Experiencia() {
                     <div className="col-12">
 
                         <div class="progress" role="progressbar">
-                            <div class="progress-bar barra">50%</div>
+                            <div class="progress-bar barra10">65%</div>
                         </div>
                     </div>
                 </div>
@@ -28,15 +28,15 @@ export function Experiencia() {
 
             <section className="container my-4">
                 <div className="row">
-                    <div className="col-4 card p-3">
+                    <div className="col-5 card p-3">
                     <img src="../../../../src/assets/img/logica de programación.jpeg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
-                        <div class="progress-bar barra10">65%</div> 
+                            <div class="progress-bar barra10">50%</div>
                     </div>
                     
                     </div>
-                    <div className="col-8 card p-3">
+                    <div className="col-5 card p-3">
                         <h2>Logica de Programacion</h2>
                         <ul>
                             <li>Variables y Constante</li>
@@ -51,15 +51,15 @@ export function Experiencia() {
 
             <section className="container my-4">
                 <div className="row">
-                    <div className="col-4 card p-3">
+                    <div className="col-5 card p-3">
                     <img src="../../../../src/assets/img/base de datos.jpeg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
-                        <div class="progress-bar barra20">50%</div> 
+                        <div class="progress-bar barra20">42%</div> 
                     </div>
                     
                     </div>
-                    <div className="col-8 card p-3">
+                    <div className="col-5 card p-3">
                         <h2>Base de Datos</h2>
                         <ul>
                             <li>Conceptos Básicos</li>
@@ -76,15 +76,15 @@ export function Experiencia() {
 
             <section className="container my-4">
                 <div className="row">
-                    <div className="col-4 card p-3">
+                    <div className="col-5 card p-3">
                     <img src="../../../../src/assets/img/maquetacion html.jpeg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
-                        <div class="progress-bar barra30">55%</div> 
+                        <div class="progress-bar barra30">45%</div> 
                     </div>
                     
                     </div>
-                    <div className="col-8 card p-3">
+                    <div className="col-5 card p-3">
                         <h2>Maquetación HTML Y CSS</h2>
                         <ul>
                             <h5>HTML(Estructura)</h5>
@@ -107,7 +107,7 @@ export function Experiencia() {
 
             <section className="container my-4">
                 <div className="row">
-                    <div className="col-4 card p-3">
+                    <div className="col-5 card p-3">
                     <img src="../../../../src/assets/img/Js.jpeg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
@@ -115,7 +115,7 @@ export function Experiencia() {
                     </div>
                     
                     </div>
-                    <div className="col-8 card p-3">
+                    <div className="col-5 card p-3">
                         <h2>Programación con Java Script</h2>
                         <ul>
                             <li>Sintaxis básica</li>
@@ -132,7 +132,7 @@ export function Experiencia() {
 
             <section className="container my-4">
                 <div className="row">
-                    <div className="col-4 card p-3">
+                    <div className="col-5 card p-3">
                     <img src="../../../../src/assets/img/Git.jpeg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
@@ -140,7 +140,7 @@ export function Experiencia() {
                     </div>
                     
                     </div>
-                    <div className="col-8 card p-3">
+                    <div className="col-5 card p-3">
                         <h2>Uso del Git</h2>
                         <ul>
                             <li>Qué es Git y para qué sirve?</li>
@@ -157,7 +157,7 @@ export function Experiencia() {
 
             <section className="container my-4">
                 <div className="row">
-                    <div className="col-4 card p-3">
+                    <div className="col-5 card p-3">
                     <img src="../../../../src/assets/img/React.jpeg" alt="" className='img-fluid'/> 
                     <br />
                     <div class="progress" role="progressbar">
@@ -165,7 +165,7 @@ export function Experiencia() {
                     </div>
                     
                     </div>
-                    <div className="col-8 card p-3">
+                    <div className="col-5 card p-3">
                         <h2>React</h2>
                         <ul>
                             <li>Componentes</li>

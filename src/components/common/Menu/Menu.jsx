@@ -6,7 +6,7 @@ export function Menu() {
     return (
 
         <>
-            <nav class="navbar navbar-expand-lg manu ">
+            <nav class="navbar navbar-expand-lg menu navbar-dark">
                 <div class="container-fluid">
                     <Link class="navbar-brand" to="/danielacastañedaaristizabal">
                     Daniela Castañeda Aristizabal
